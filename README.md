@@ -1,2 +1,2 @@
 # 2D-Shooter-Game-With-AI-Bot
-A 2D shooter game featuring an AI bot that learns to predict the player's shooting patterns and develops effective strategies to dodge incoming projectiles.
+An AI-powered training environment where adaptive bots help VALORANT players practice, refine, and master agent abilities through personalized gameplay scenarios.
